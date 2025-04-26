@@ -1,0 +1,53 @@
+// This is free and open source software, if you paid for this you were scammed
+// Made by "EZTLI" on earth by humans roughly 2024 rotations around the sun after the death of our savior
+This tool is for the interpreter for K#
+The input files are .KS or .DXS
+the following is from BASIC.KS the starter template for the language V1.1 [
+> age
+~ name
+# phone
+& family members
+^ associates
+_@ email
+! Address
+* state
+$ city
+- apt
+` link (do not use >,~,#,&,^,_@,!,*,$,-,`,;,//{this will be changed later})
+; ip
+_tt tiktok
+_yt youtube
+_sc snapchat
+_dc discord
+_ds discord server(they created or are in)
+_ex extra social
+// start comment
+comment
+\\ end comment
+? is the id for unknown data ex: ~jane ?
+]
+
+No spaces are needed inbetween the "id" and the data
+You may put multiple of the same id
+You may also use commas to seperate multiple(Do not use spaces)
+Please note that there is a bug that disables the use of "'\\'" although it does not cause errors
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+For use of the interpreter that formats in to plain text
+First you will be prompted if you want to open docs(which you did)
+Next you will be prompted to enter the filename of the file. The file does need to be in current dir
+enter the full filename ex:( ex.ks )
+it will read the file as a variable called fn
+next it will convert all "ids/tokens" to the yaml like output script
+you can see the original and new file seperated by a line
+you will next be prompted to enter filename to create/overwrite
+The file can have any file extention but .DX .YAML .TXT are prefered
+
+----------------------------------------------------------------------------------------------------
+ERROR CODES
+0 The documentation prompt had incorrect input
+2-3 will not happen in v1.1
+
+
+
+

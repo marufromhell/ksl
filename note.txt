@@ -1,0 +1,14 @@
+this is for custom menus, scripts and more feel free to edit everything here
+import ksl to use functions
+
+docmain()
+docex()
+contact()
+main()
+ex()
+fileread()
+filewrite()
+
+and the ones i was too lazy to put here
+cmon ur a developer if you even read this just read the fucking code
+no one will every need this useless piece of shit software so it doesnt even matter tbh 😭

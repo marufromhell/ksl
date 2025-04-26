@@ -1,0 +1,53 @@
+This is free and open source software, if you paid for this you were scammed
+Made by "EZTLI" on earth by humans roughly 2024 rotations around the sun after the death of our savior
+
+This tool is for the exinterpreter for K#
+The input files are .KS2 or .exks
+the following is from BASIC.KS the starter template for the language VB1.1 [
+_ag age:
+_n name:           
+_p phone:          
+_f family:         
+_w work:           
+_e emails:         
+_ad address:        
+_sp state/province: 
+_ct city/town:      
+_as apt/suite:      
+// comments:       
+_h file/image:     
+_ip ip address:     
+_tt tiktok          
+_yt youtube         
+_sc snapchat        
+_dc discord         
+_ds discord server  
+_ex extra social    
+// start comment
+comment
+\\ end comment
+? is the id for unknown data ex: ~jane ?
+]
+
+No spaces are needed inbetween the "id" and the data
+You may put multiple of the same id
+You may also use commas to seperate multiple(Do not use spaces)
+Please note that there is a bug that disables the use of "'\\'" although it does not cause errors
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+For use of the interpreter that formats in to plain text
+First you will be prompted if you want to open docs(which you did)
+Next you will be prompted to enter the filename of the file. The file does need to be in current dir
+enter the full filename ex:( ex.ks )
+it will read the file as a variable called fn
+next it will convert all "ids/tokens" to the yaml like output script
+you can see the original and new file seperated by a line
+you will next be prompted to enter filename to create/overwrite
+The file can have any file extention but .DX .DX2 .YAML .TXT are prefered
+
+----------------------------------------------------------------------------------------------------
+
+
+
+
+
