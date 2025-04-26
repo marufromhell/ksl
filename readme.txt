@@ -7,12 +7,12 @@ this is due to our new library KSL ~
 
 Filetypes {
 
-FOR MAIN PIPELINE
+FOR MAIN BRANCH
 knifesharp(input): .ks .dxs
 output: .txt .dxx .dx .yaml .yml
 note: these are just prefered filetypes
 
-FOR EXTRA PIPELINE
+FOR EXTRA BRANCH
 ks(in): .ks2 .exks .dxs2
 out: .dx2 .exdx
 note: these are just prefered filetype
