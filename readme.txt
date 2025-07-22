@@ -1,5 +1,5 @@
 This is free and open source software, if you paid for this you were scammed
-Made by "EZTLI" on earth by humans roughly 2024 rotations around the sun after the death of our savior
+Made by "EZTLI" on earth by humans roughly 2024 rotations around the sun after the death of our so called savior
 
 KSL UPDATE
 ~running the scripts directly still works but the new tool selector.py can do it all in open
